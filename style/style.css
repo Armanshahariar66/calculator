@@ -1,0 +1,63 @@
+.card{
+    width: 350px;
+    height: 450px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px white;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 0%;
+}
+.card:hover{
+    width: 350px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+    background-color: blanchedalmond;
+}
+.cal-title{
+    font-size: 30px;
+    margin: 10px;
+}
+.cal-num{
+    width: 98%;
+    height: 50px;
+    border-radius: 20px;
+}
+.card-cantainer{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: cornsilk;
+    padding: 20px 0;
+    justify-content: center;
+    align-items: center;
+}
+.me-bo{
+    font-size: 25px;
+    height: 45px;
+    width:45px ;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+.me-boo{
+    font-size: 25px;
+    height: 45px;
+    width:65px ;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+.mab{
+    font-size: 25px;
+    height: 45px;
+    width:65px ;
+    background-color: rgb(195, 171, 171);
+    border-radius: 5px;
+}
+.jak{
+    justify-content: center;
+    align-items: center;
+    width: 87px;
+    height: 70px;
+}
